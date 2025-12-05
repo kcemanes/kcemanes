@@ -57,5 +57,4 @@ Here are a few highlights showcasing my ability to tackle complex integration an
 | :--- | :--- |
 | **Email** | senamec@gmail.com |
 | **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/kirby-cemanes) |
-| **Mobile** | +63 927.138.0307 |
-| **Location** | Cebu, Philippines |
+
